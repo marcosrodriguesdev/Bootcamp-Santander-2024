@@ -1,4 +1,4 @@
-package edu.stdbootcamp;
+package edu.stdbootcamp.contaBanco;
 
 import java.util.Scanner;
 

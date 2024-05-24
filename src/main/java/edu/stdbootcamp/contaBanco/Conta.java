@@ -1,4 +1,4 @@
-package edu.stdbootcamp;
+package edu.stdbootcamp.contaBanco;
 
 public class Conta {
     private int numero;
